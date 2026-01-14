@@ -1,6 +1,6 @@
 # Transfert de Fichiers Sécurisé - Projet Java
 
-*Réalisé par* : Yosra BOURRAT et Fatima Zahra NACIRI␣␣
+*Réalisé par* : Yosra BOURRAT et Fatima Zahra NACIRI␣
 
 *Encadré par* : M.BENTAJER
 
